@@ -1,4 +1,4 @@
-##  Hi I'm Anastasia Brailovska, FullStack Web Developer student at Labenu!!
+##  Hi I'm Anastasia Brailovska, FrontEnd Developer & UX/UI Designer 
 <div align="center">
   <a href="https://github.com/michaeldouglasf">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nastianb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,8 +23,7 @@
   <img align="center" alt="git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img align="center" alt="git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
    
-        
-  ### 👉 Other Tools and Technologies student at Labenu
+
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
